@@ -1,7 +1,7 @@
 name: randomsky
 favicon: null
-layout_spectrum: 0.8563460565637797
-typography_spectrum: 0.8849664498120546
+layout_spectrum: 0
+typography_spectrum: 0.40693
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#86bd3d'
+    - '#ffffff'
+    - '#ffd038'
+    - '#234c52'
+    - '#65942c'
   brandStrength: 0.13631761306896806
-  lightness: 0.8544064394664019
-  saturation: 0.880936163244769
-  rhythmicContrast: 0.5051697313319892
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
